@@ -1,5 +1,8 @@
 # Yuri da Costa Santos
 
+![Descrição da Imagem](URL_da_imagem)
+
+
 - 📍 **Localização**: [Sapiranga, Rio Grande do Sul
 - 📧 **E-mail**: yuri132costa@gmail.com
 - 📱 **Telefone**: 48 99987-9383, 51 99570-4585
