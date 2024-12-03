@@ -1,10 +1,8 @@
-# [Seu Nome Completo]
+# Yuri da Costa Santos
 
-- 📍 **Localização**: [Cidade, Estado]
-- 📧 **E-mail**: [Seu E-mail]
-- 🔗 **LinkedIn**: [Link do LinkedIn]
-- 🌐 **GitHub**: [Seu GitHub]
-- 📂 **Portfólio**: [Link do seu portfólio]
+- 📍 **Localização**: [Sapiranga, Rio Grande do Sul
+- 📧 **E-mail**: yuri132costa@gmail.com
+- 📱 **Telefone**: 48 99987-9383
 
 ---
 
@@ -15,17 +13,17 @@ Buscando estágio nas áreas de Desenvolvimento de Software e Redes.
 
 ## 🎓 Formação Acadêmica
 
-**[Nome da Instituição]** — *Bacharelado em Tecnologia da Informação*  
-Previsão de Conclusão: [Mês/Ano]  
+**Centro Sinodal de Ensino Médio de Sapiranga - Duque** — *Bacharelado em Tecnologia da Informação*  
+Previsão de Conclusão: 12/2025  
 Principais disciplinas: Desenvolvimento de Software, Redes de Computadores, Estruturas de Dados, Segurança da Informação.
 
 ---
 
 ## 🧑‍💻 Experiência Profissional
 
-**[Nome da Empresa ou Projeto]**  
-*Cargo ou função* | [Mês/Ano de Início] - [Mês/Ano de Término ou "Atualmente"]  
-- [Descrição das responsabilidades e resultados]
+**Câmara Municipal de Vereadores de Sapiranga**  
+*Estágiario* | 06/2023 - 12/Atualmente"  
+
 
 ---
 
@@ -41,10 +39,3 @@ Principais disciplinas: Desenvolvimento de Software, Redes de Computadores, Estr
 - Configuração de redes TCP/IP, roteadores e switches.  
 - Protocolos: DNS, HTTP, DHCP, FTP, SSH.
 
----
-
-## 📚 Projetos Acadêmicos
-
-**[Nome do Projeto]**  
-*Tecnologias Utilizadas*: [Tecnologias]  
-Descrição: [Breve descrição do projeto e seu papel nele].
