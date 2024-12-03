@@ -2,12 +2,12 @@
 
 - 📍 **Localização**: [Sapiranga, Rio Grande do Sul
 - 📧 **E-mail**: yuri132costa@gmail.com
-- 📱 **Telefone**: 48 99987-9383
+- 📱 **Telefone**: 48 99987-9383, 51 99570-4585
 
 ---
 
 ## 🎯 Objetivo Profissional
-Buscando estágio nas áreas de Desenvolvimento de Software e Redes.
+Buscando estágio nas áreas de Desenvolvimento de Software, Redes e Suporte Técnico, onde posso aplicar meus conhecimentos em manutenção de computadores, redes e desenvolvimento de soluções.
 
 ---
 
@@ -22,7 +22,7 @@ Principais disciplinas: Desenvolvimento de Software, Redes de Computadores, Estr
 ## 🧑‍💻 Experiência Profissional
 
 **Câmara Municipal de Vereadores de Sapiranga**  
-*Estágiario* | 06/2023 - 12/Atualmente"  
+*Estágiario* | 06/2023 - 12/Atualmente
 
 
 ---
@@ -30,7 +30,7 @@ Principais disciplinas: Desenvolvimento de Software, Redes de Computadores, Estr
 ## 🛠️ Habilidades Técnicas
 
 **Desenvolvimento**:  
-- Linguagens de Programação: Python, Java, JavaScript, C, C#.  
+- Linguagens de Programação: Python, Java, JavaScript.
 - Frameworks: Django, React, Node.js.  
 - Banco de Dados: MySQL, PostgreSQL.  
 - Ferramentas: Git, Docker, VSCode.
