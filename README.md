@@ -1,6 +1,6 @@
 # Yuri da Costa Santos
 
-![Descrição da Imagem](URL_da_imagem)
+![Descrição da Imagem](https://github.com/yuri-cst/YuriCosta/blob/main/imagemyuri.jpeg)
 
 
 - 📍 **Localização**: [Sapiranga, Rio Grande do Sul
